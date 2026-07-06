@@ -139,7 +139,7 @@ public:
 		root->addWidget(status);
 		root->addStretch();
 
-		auto *credit = new QLabel("debeloperd by adriaabad · v0.1.0", this);
+		auto *credit = new QLabel("Developed by adriaabad · v0.1.0", this);
 		credit->setAlignment(Qt::AlignCenter);
 		credit->setStyleSheet("QLabel { color: rgba(150,150,150,0.82); font-size: 10px; }");
 		root->addWidget(credit);
