@@ -1,8 +1,16 @@
 # TCG Card Presenter
 
+<p align="center">
+  <img src="docs/assets/tcg-card-presenter-logo.png" alt="TCG Card Presenter logo" width="220">
+</p>
+
 **TCG Card Presenter** is a native OBS Studio plugin for searching, previewing, and presenting trading card images during livestreams, recordings, deck techs, tournament coverage, and tabletop content.
 
 The first public version focuses on **Magic: The Gathering** through the Scryfall API. Other trading card games are already listed in the dock as in-development targets and will be added progressively.
+
+## Preview
+
+![TCG Card Presenter OBS dock screenshot](docs/assets/tcg-card-presenter-screenshot.png)
 
 ## Current Status
 
